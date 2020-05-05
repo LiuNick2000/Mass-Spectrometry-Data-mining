@@ -1,0 +1,17 @@
+Green_Algae	1.0
+Conifers	0.8452929558920342
+Lycophytes	1.0
+Chloranthales	1.0
+Magnoliids	0.0071693765202918884
+Core_Eudicots_Asterids	0.8107128473620622
+Core_Eudicots_Rosids	0.7552083333333334
+Eusporangiate_Monilophytes	0.0831057354662505
+Monocots_Commelinids	0.7853881278538813
+Liverworts	1.0
+Core_Eudicots	0.032590051457976
+Monocots	0.43288084464555054
+Basal_Eudicots	0.007496568472178229
+Mosses	1.0
+Leptosporangiate_Monilophytes	0.8865282472235635
+Ginkgoales	1.0
+Basalmost_angiosperms	0.002245356195141865
